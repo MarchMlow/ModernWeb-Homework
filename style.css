@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, "Tahoma", sans-serif;
+  background-color: #f4f7fb;
+  color: #333333;
+  margin: 0;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: "Tahoma", Arial, sans-serif;
+  font-weight: bold;
+  margin: 0;
+}
+
+#main-header {
+  background-color: #2f5d8a;
+  color: white;
+  padding: 24px;
+  text-align: center;
+}
+
+.highlight {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+nav,
+main,
+footer {
+  padding: 16px;
+}
+
+nav {
+  text-align: center;
+  background-color: #e2ecf7;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+}
